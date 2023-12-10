@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exportLog>
+  <log>Connector is not supported: Type=NoteLink - GUID={674E329D-3521-4e7d-AD63-904F8D0C2904}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {674E329D-3521-4e7d-AD63-904F8D0C2904}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={0E4B6C5E-3746-4681-A138-B98B166E2A40}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {0E4B6C5E-3746-4681-A138-B98B166E2A40}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={81E27808-B776-45be-91DE-AC927E924FF2}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {81E27808-B776-45be-91DE-AC927E924FF2}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={4D81817B-82E1-4dee-998A-CC9B8F8F7460}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {4D81817B-82E1-4dee-998A-CC9B8F8F7460}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={4D81817B-82E1-4dee-998A-CC9B8F8F7460}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={81E27808-B776-45be-91DE-AC927E924FF2}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={0E4B6C5E-3746-4681-A138-B98B166E2A40}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={674E329D-3521-4e7d-AD63-904F8D0C2904}</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name= - GUID={39726C7C-2A1B-4581-87B8-C76DDB104CA3} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name= - GUID={E4BDAEB9-85C9-48c1-BA8F-C4AFC523E4B7} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=a2 - GUID={D09CDBFB-E92B-4a7c-95D3-A7B8C6FD8A25} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: AcceptEventAction must be a child of an activity</log>
+  <log>          Name=keyOff - GUID={61D50614-EC4A-4b6c-8D82-150C73CEBDA0} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: ActivityPartition must be a child of an activity</log>
+  <log>          Name=emg - GUID={C364D3E2-E966-498f-9FD4-C20A4B4750E1} - Type=ActivityPartition - Stereotype=allocateActivityPartition</log>
+  <log>Element location is not SysML compliant: ActivityPartition must be a child of an activity</log>
+  <log>          Name=epc - GUID={BFC269BC-562E-40f2-9687-D5EDEB93A217} - Type=ActivityPartition - Stereotype=allocateActivityPartition</log>
+  <log>Element location is not SysML compliant: ActivityPartition must be a child of an activity</log>
+  <log>          Name=ice - GUID={DCB83E23-962B-467e-A052-208C0361BC0A} - Type=ActivityPartition - Stereotype=allocated</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name= - GUID={5194609D-BE17-4cad-A0D1-E6D571F28449} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name= - GUID={F6699D7B-34FA-46fe-8175-71B51F3A3AE9} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name= - GUID={3B986D95-665E-4876-A671-D4BFA24E7D9A} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name= - GUID={C3D1F31F-9191-45ff-9249-F9F1E6FA5DD0} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=a1 - GUID={74106B3F-CE2C-4f58-BC3E-3CABB3198AAE} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: ActivityPartition must be a child of an activity</log>
+  <log>          Name=pcu - GUID={13FEE1BD-4410-4d91-A646-75B8B129BA7E} - Type=ActivityPartition - Stereotype=allocateActivityPartition</log>
+  <log>Element not supported: Name=CargoCapacity - GUID={AA2F4C86-295B-4234-8127-44395856351F} - Type=Part - Stereotype=moe</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=CargoCapacity - GUID={AA2F4C86-295B-4234-8127-44395856351F} - Type=Part - Stereotype=moe</log>
+  <log>Element not supported: Name=CostEffectiveness - GUID={1F394DA3-6FB3-4bd0-9189-7949B4C67AE7} - Type=Part - Stereotype=moe</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=CostEffectiveness - GUID={1F394DA3-6FB3-4bd0-9189-7949B4C67AE7} - Type=Part - Stereotype=moe</log>
+  <log>Element not supported: Name=FuelEconomy - GUID={51662CE1-6C3D-4f09-81E0-022B0BC2DD79} - Type=Part - Stereotype=moe</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=FuelEconomy - GUID={51662CE1-6C3D-4f09-81E0-022B0BC2DD79} - Type=Part - Stereotype=moe</log>
+  <log>Element not supported: Name=QuarterMileTime - GUID={482B1140-24C8-4a45-8FBB-F074DAC5FFEB} - Type=Part - Stereotype=moe</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=QuarterMileTime - GUID={482B1140-24C8-4a45-8FBB-F074DAC5FFEB} - Type=Part - Stereotype=moe</log>
+  <log>Element not supported: Name=UnitCost - GUID={8BD4FBAC-A05A-4557-981D-8E0D546005FA} - Type=Part - Stereotype=moe</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=UnitCost - GUID={8BD4FBAC-A05A-4557-981D-8E0D546005FA} - Type=Part - Stereotype=moe</log>
+  <log>Element not supported: Name=Zero60Time - GUID={A45D4F7E-BF79-49db-BF50-EAA513399666} - Type=Part - Stereotype=moe</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=Zero60Time - GUID={A45D4F7E-BF79-49db-BF50-EAA513399666} - Type=Part - Stereotype=moe</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={458525D3-A1C3-4312-9102-2271AEC921B3}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {458525D3-A1C3-4312-9102-2271AEC921B3}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={783BFC0E-B7D0-4d69-881F-0B05C638A58A}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {783BFC0E-B7D0-4d69-881F-0B05C638A58A}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={B5398719-8C20-4d5d-9932-54DB47629B52}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {B5398719-8C20-4d5d-9932-54DB47629B52}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={B5398719-8C20-4d5d-9932-54DB47629B52}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={783BFC0E-B7D0-4d69-881F-0B05C638A58A}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={458525D3-A1C3-4312-9102-2271AEC921B3}</log>
+  <log>Diagram location is not SysML compliant: Internal block diagrams must be a child of a block or constraint block</log>
+  <log>     Diagram name: HybridSUV - Diagram GUID: {41D7097C-56DD-433d-8EA9-2C78EAD31A35}</log>
+  <log>Element not supported: Name=I_IEPCCmd - GUID={487B7034-4B6E-4709-ADE6-ACCA387A42C1} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_IEPCCmd - GUID={487B7034-4B6E-4709-ADE6-ACCA387A42C1} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=isControlOn - GUID={FDACA579-82B5-4571-A2CA-3EEBCF7E1B77} - Type=Part - Stereotype=DirectedFeature</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=isControlOn - GUID={FDACA579-82B5-4571-A2CA-3EEBCF7E1B77} - Type=Part - Stereotype=DirectedFeature</log>
+  <log>Element not supported: Name=I_ICECmd - GUID={C72EED38-D7E4-42a0-9E94-091123430779} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_ICECmd - GUID={C72EED38-D7E4-42a0-9E94-091123430779} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_IEPCData - GUID={F5353B73-3470-44ac-8DBA-4E7D3B3DF51A} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_IEPCData - GUID={F5353B73-3470-44ac-8DBA-4E7D3B3DF51A} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_ICEData - GUID={B26908E3-4B81-45e8-A312-CE0DFF3E7B40} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_ICEData - GUID={B26908E3-4B81-45e8-A312-CE0DFF3E7B40} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_TRSMData - GUID={C2AA2A81-2C34-4244-A175-79D81B5C49FE} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_TRSMData - GUID={C2AA2A81-2C34-4244-A175-79D81B5C49FE} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_TRSMCmd - GUID={FA6761F3-3455-46b3-9B36-54438EE44AD8} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_TRSMCmd - GUID={FA6761F3-3455-46b3-9B36-54438EE44AD8} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_IEPCCmd - GUID={40483DDC-C4F8-4393-AE50-5E3BFDE17AD4} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_IEPCCmd - GUID={40483DDC-C4F8-4393-AE50-5E3BFDE17AD4} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_ICECmd - GUID={5D06D810-57CB-4012-A725-972668925B99} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_ICECmd - GUID={5D06D810-57CB-4012-A725-972668925B99} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_IEPCData - GUID={298625E7-780F-47da-B89F-E45D55642829} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_IEPCData - GUID={298625E7-780F-47da-B89F-E45D55642829} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_ICEData - GUID={CDE53BAE-0CB5-45e6-8DC6-04AE7E41BFD4} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_ICEData - GUID={CDE53BAE-0CB5-45e6-8DC6-04AE7E41BFD4} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_TRSMData - GUID={30BB7B5D-1A81-46ae-9E43-6BCF793A192B} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_TRSMData - GUID={30BB7B5D-1A81-46ae-9E43-6BCF793A192B} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=I_TRSMCmd - GUID={BCE05B12-44CA-47ae-A3D2-FD10639E2A86} - Type=ProvidedInterface - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=I_TRSMCmd - GUID={BCE05B12-44CA-47ae-A3D2-FD10639E2A86} - Type=ProvidedInterface - Stereotype=</log>
+  <log>Element not supported: Name=testRun060401 - GUID={D797436C-D3F2-404d-B4D5-00A4D58C0E93} - Type=Part - Stereotype=testCase</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=testRun060401 - GUID={D797436C-D3F2-404d-B4D5-00A4D58C0E93} - Type=Part - Stereotype=testCase</log>
+  <log>Element not supported: Name=TestVehicle1 - GUID={16A8EAB9-0033-440a-B0A0-1395EAEB9F58} - Type=Part - Stereotype=system</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=TestVehicle1 - GUID={16A8EAB9-0033-440a-B0A0-1395EAEB9F58} - Type=Part - Stereotype=system</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={42BFB58C-98B9-441d-8502-99556C69EC71}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {42BFB58C-98B9-441d-8502-99556C69EC71}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={C9AF3D44-2538-4768-BDF3-4D3D4F5D9CD9}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {C9AF3D44-2538-4768-BDF3-4D3D4F5D9CD9}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={C9AF3D44-2538-4768-BDF3-4D3D4F5D9CD9}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={42BFB58C-98B9-441d-8502-99556C69EC71}</log>
+  <log>Element not supported: Name=Accelerate/Cruise - GUID={1379DB99-3E1A-4e71-A658-7782C3DECB10} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=Accelerate/Cruise - GUID={1379DB99-3E1A-4e71-A658-7782C3DECB10} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>Element not supported: Name=Brake - GUID={5C40D967-4C66-4615-AA82-057FD78654B4} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=Brake - GUID={5C40D967-4C66-4615-AA82-057FD78654B4} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>Element not supported: Name=Idle - GUID={A011944E-7A5E-490a-A381-670657D1F427} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=Idle - GUID={A011944E-7A5E-490a-A381-670657D1F427} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>Element not supported: Name=Park/Shutdown Vehicle - GUID={047E7679-7C6C-427c-8001-E8C4C1BF3561} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=Park/Shutdown Vehicle - GUID={047E7679-7C6C-427c-8001-E8C4C1BF3561} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>Element not supported: Name=Start Vehicle Black Box - GUID={153E228F-BCC7-4975-81D0-1C7AE81C11DF} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=Start Vehicle Black Box - GUID={153E228F-BCC7-4975-81D0-1C7AE81C11DF} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>Element not supported: Name=Steer - GUID={4E23D2CB-ED9E-4e56-B818-FA3EAC853E49} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=Steer - GUID={4E23D2CB-ED9E-4e56-B818-FA3EAC853E49} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={D9D8347A-B86C-4785-BDED-9EC6BF40BA28}</log>
+  <log>Diagram location is not SysML compliant: Package diagrams must be a child of a model, package, model library or block</log>
+  <log>Could not add connector:  - Connector GUID: {D9D8347A-B86C-4785-BDED-9EC6BF40BA28}</log>
+  <log>Connector is not supported: Type=NoteLink - GUID={D9D8347A-B86C-4785-BDED-9EC6BF40BA28}</log>
+  <log>Element not supported: Name=Start Vehicle White Box - GUID={FEEC5C89-A5D7-42f2-A8E7-774BB84DB95D} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name=Start Vehicle White Box - GUID={FEEC5C89-A5D7-42f2-A8E7-774BB84DB95D} - Type=InteractionOccurrence - Stereotype=</log>
+  <log>Element not supported: Name= - GUID={F65647CE-EDCB-4e73-865B-1589C977FBB8} - Type=MessageEndpoint - Stereotype=</log>
+  <log>     Elements, diagrams, and connectors belonging to this element have not been exported</log>
+  <log>Unable to add element to XML: Name= - GUID={F65647CE-EDCB-4e73-865B-1589C977FBB8} - Type=MessageEndpoint - Stereotype=</log>
+  <log>Connector is not supported: Type=Package - GUID={8F375721-524A-4fce-AAD4-B1BF44FBD28D}</log>
+  <log>Connector is not supported: Type=Package - GUID={58928F91-3132-4c67-86C4-7DCDD43658B2}</log>
+</exportLog>

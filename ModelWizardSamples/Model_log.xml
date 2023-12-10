@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exportLog>
+  <log>Diagram location is not SysML compliant: Internal block diagrams must be a child of a block or constraint block</log>
+  <log>     Diagram name: Internal Block Diagram - Diagram GUID: {FD958605-5DC1-4ceb-A0A5-160067C0458D}</log>
+  <log>Diagram location is not SysML compliant: State machine diagrams must be a child of a state machine</log>
+  <log>     Diagram name: Simple State Machine - Diagram GUID: {F980B026-84F0-4a33-84A2-7CDE854D0D53}</log>
+  <log>Diagram location is not SysML compliant: State machine diagrams must be a child of a state machine</log>
+  <log>     Diagram name: State C - Diagram GUID: {B6CD0D26-73C2-4445-8252-2A96537327E1}</log>
+  <log>Diagram location is not SysML compliant: State machine diagrams must be a child of a state machine</log>
+  <log>     Diagram name: Composite States - Diagram GUID: {CF7FEFF7-4BEA-4791-A4FE-9AE87740B864}</log>
+  <log>Diagram location is not SysML compliant: State machine diagrams must be a child of a state machine</log>
+  <log>     Diagram name: Nested States - Diagram GUID: {0C973C53-67D6-4727-8A6C-CF6D8434844D}</log>
+  <log>Diagram location is not SysML compliant: State machine diagrams must be a child of a state machine</log>
+  <log>     Diagram name: State with History - Diagram GUID: {88801CCD-D360-43f1-AC62-53C008F5BC9E}</log>
+  <log>Element location is not SysML compliant: InitialNode must be a child of an activity</log>
+  <log>          Name=Activity Initial - GUID={E640AB4B-4B57-416f-ABFE-9850EF0837B8} - Type=StateNode - Stereotype=</log>
+  <log>Element location is not SysML compliant: ActivityFinalNode must be a child of an activity</log>
+  <log>          Name=Activity Final - GUID={FA6EC175-82B4-4fc0-9AA0-F608C9B23DF4} - Type=StateNode - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={3A56FC2A-FF61-405b-AC21-9102FC703019} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={107E54F7-580E-4d4e-9DEB-84DC6C90E1F7} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.1a - GUID={D1C754E5-F8EC-485d-96EC-EF2BC99EB805} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={2ACA3250-7EEB-4620-995C-383BA9E6800F} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin c - GUID={5E629062-6E7A-4e29-9C33-EB0EC3D55EF3} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={CE8F3C54-9A4F-45ee-9B77-4E253391DE93} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.2a - GUID={7999EAF3-C1EC-471e-921B-A0FDC9C02957} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={94F97E7A-1710-4f8c-A930-3EA31FD81BC3} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={B9776D68-F69F-4ec2-B0F6-C98D569E528A} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.3a - GUID={103A73ED-7C05-4d12-A291-1469AAA21270} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pt - GUID={0C183B65-A981-40af-819D-65CD5C8993FC} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=po - GUID={D65449FB-113B-4b1e-B7EF-F84D1F12B2A8} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.4a - GUID={122599EC-E53B-4020-BEFB-CF83AF5B4610} - Type=Action - Stereotype=</log>
+  <log>Diagram location is not SysML compliant: Activity diagrams must be a child of an activity</log>
+  <log>     Diagram name: Activity with Actions and Control Flows - Diagram GUID: {F2056613-89BF-48f2-AB3E-1CF5F9A360AC}</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={284CBA56-FF94-4977-827D-EE865BB88892} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={67C86941-C49D-4603-AC28-66EFDDE088FD} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.1a - GUID={F9010A3B-D545-44b2-85DF-F365A9B79DE9} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={398A156D-8033-4d55-B063-11E943482B90} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={54EC3209-E564-4255-8C91-6230D7BE548E} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.3a - GUID={183D63E8-8F5D-4fa2-B81D-B94A25D95156} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: InitialNode must be a child of an activity</log>
+  <log>          Name=Activity Initial - GUID={736EDFF3-9662-48cc-8962-93BDFFCBE874} - Type=StateNode - Stereotype=</log>
+  <log>Element location is not SysML compliant: ActivityPartition must be a child of an activity</log>
+  <log>          Name=partition a - GUID={392889FF-2073-49cc-A24A-057B5E5F3062} - Type=ActivityPartition - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin c - GUID={FF56A30E-2718-45ea-AFE1-8D7B8D54F889} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={69AB2CB0-8E83-46c4-AA10-7C65AEDC863E} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={9DB992E4-61CF-4fe3-BB57-A0B70C52F375} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.2a - GUID={F1FA8EE5-8009-471b-A288-D5DC856E2175} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={13B8C89D-CB00-43eb-9239-9DEBF5381674} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={58004ACD-D784-48ea-878B-BC07F60BDE79} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.4a - GUID={2D0AD3E8-5362-45be-A7A5-8DAE49F7D712} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: ActivityFinalNode must be a child of an activity</log>
+  <log>          Name=Activity Final - GUID={AC195014-9C0A-4ca4-B82F-0FEC902A699A} - Type=StateNode - Stereotype=</log>
+  <log>Element location is not SysML compliant: ActivityPartition must be a child of an activity</log>
+  <log>          Name=partition b - GUID={AD8194CE-569B-4445-A0A8-748CD41C3A03} - Type=ActivityPartition - Stereotype=</log>
+  <log>Diagram location is not SysML compliant: Activity diagrams must be a child of an activity</log>
+  <log>     Diagram name: Activity with Actions and Partitions - Diagram GUID: {6C0FCE05-F4B1-4f25-90E6-9EF7368AEC24}</log>
+  <log>Element location is not SysML compliant: JoinNode must be a child of an activity</log>
+  <log>          Name= - GUID={BB809B22-7100-4fa1-A1B2-B8907C9664CE} - Type=Synchronization - Stereotype=</log>
+  <log>Diagram location is not SysML compliant: State machine diagrams must be a child of a state machine</log>
+  <log>     Diagram name: State with Regions - Diagram GUID: {11C1817E-F31D-4427-BA69-24466C56EF71}</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={41B53603-0CC1-46a4-8908-202038E6F58A} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={DC0083F2-9C3F-4dd4-B853-4EAF336D03B6} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.1a - GUID={1E99D08E-61A8-4c2d-92B2-89E076FD68A4} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={FC4BAA6F-AAE1-4c2e-8DA3-BEEAC1AC16C6} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={056621AB-7E9A-416f-BA26-815DA5580607} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.2a - GUID={3F8BDAE9-5E68-4080-B927-0C3752C4994C} - Type=Action - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin a - GUID={E7D45E8E-59A7-4551-972D-A2D3738D748E} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin b - GUID={FB52B342-B087-438b-B9FF-27FB997C372F} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin c - GUID={5BDFEA04-80C2-41e2-B802-F806BBF0AE1E} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: InputPin must be a child of an activity</log>
+  <log>          Name=pin d - GUID={DA3F808E-925F-4061-B075-FA1544C73719} - Type=ActionPin - Stereotype=</log>
+  <log>Element location is not SysML compliant: CallBehaviorAction must be a child of an activity</log>
+  <log>          Name=1.3a - GUID={335654C0-0215-4ad8-BD8B-5859117CDF9D} - Type=Action - Stereotype=</log>
+  <log>Diagram location is not SysML compliant: Activity diagrams must be a child of an activity</log>
+  <log>     Diagram name: Actions with Pins and Datastore - Diagram GUID: {B432A7C2-BA38-4ad5-A341-EFB96152A811}</log>
+</exportLog>
